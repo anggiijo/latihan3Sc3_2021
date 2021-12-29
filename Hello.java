@@ -1,5 +1,5 @@
 class Hello{
 public static void main(String[] args){
-System.out.println("JO: Aplikasi Java");
+System.out.println("JO: Aplikasi Java 2020");
 }
 }
